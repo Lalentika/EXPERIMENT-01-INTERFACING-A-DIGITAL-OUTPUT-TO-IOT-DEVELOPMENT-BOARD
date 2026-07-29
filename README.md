@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5e785a5-2d4d-4b0f-ab10-e461f2109f66" /># EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+ EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
 **DATE:**
